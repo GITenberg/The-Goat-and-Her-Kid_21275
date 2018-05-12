@@ -1,0 +1,33 @@
+_repo: The-Goat-and-Her-Kid_21275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Myrtle, Harriet
+    aliases:
+    - Miller, Mrs. Hugh
+    - Myrtle, H. (Harriet)
+    - Miller, Lydia Falconer Fraser
+    deathdate: 1876
+    gutenberg_agent_id: '8379'
+    url: http://www.gutenberg.org/2009/agents/8379
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goats -- Juvenile fiction'
+- !lcsh 'Winter sports -- Juvenile fiction'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: The goat and her kid -- The little foundling -- Winter pleasures.
+title: The Goat and Her Kid
+url: http://www.gutenberg.org/ebooks/21275
